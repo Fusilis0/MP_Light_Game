@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Unity Projects\\mpFPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|c:\\users\\pc\\unity projects\\mpfps\\assets\\scripts\\keymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|c:\\users\\pc\\unity projects\\mpfps\\assets\\scripts\\respawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\respawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|c:\\users\\pc\\unity projects\\mpfps\\assets\\scripts\\lightsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lightsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|C:\\Users\\PC\\Unity Projects\\mpFPS\\assets\\scripts\\rgb_button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rgb_button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|C:\\Users\\PC\\Unity Projects\\mpFPS\\assets\\scripts\\lightcolormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lightcolormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|C:\\Users\\PC\\Unity Projects\\mpFPS\\assets\\scripts\\roomlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roomlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|C:\\Users\\PC\\Unity Projects\\mpFPS\\assets\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|C:\\Users\\PC\\Unity Projects\\mpFPS\\assets\\scripts\\mirrorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mirrorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|C:\\Users\\PC\\Unity Projects\\mpFPS\\assets\\scripts\\mirror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mirror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|C:\\Users\\PC\\Unity Projects\\mpFPS\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|C:\\Users\\PC\\Unity Projects\\mpFPS\\assets\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|C:\\Users\\PC\\Unity Projects\\mpFPS\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|C:\\Users\\PC\\Unity Projects\\mpFPS\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|C:\\Users\\PC\\Unity Projects\\mpFPS\\assets\\scripts\\facecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93199CCB-89B2-0B45-8FE4-7528ED25D7E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\facecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\KeyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KeyManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\KeyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KeyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:21:50.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RespawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\RespawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RespawnManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\RespawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RespawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:21:42.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomListItem.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\RoomListItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RoomListItem.cs",
+              "ToolTip": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\RoomListItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RoomListItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:37:25.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LightColorManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\LightColorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LightColorManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\LightColorManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LightColorManager.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:14:27.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RGB_Button.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\RGB_Button.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RGB_Button.cs",
+              "ToolTip": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\RGB_Button.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RGB_Button.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:50:45.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:11:45.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mirror.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\Mirror.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mirror.cs",
+              "ToolTip": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\Mirror.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mirror.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:26:28.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MirrorController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\MirrorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MirrorController.cs",
+              "ToolTip": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\MirrorController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MirrorController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:59:54.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MouseLook.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\MouseLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseLook.cs",
+              "ToolTip": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\MouseLook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseLook.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:07:25.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LightSource.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\LightSource.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LightSource.cs",
+              "ToolTip": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\LightSource.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LightSource.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T23:08:47.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerManager.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAApwHcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:40:27.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FaceCamera.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\FaceCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FaceCamera.cs",
+              "ToolTip": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\FaceCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FaceCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:02:48.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAawH0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:38:41.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Unity Projects\\mpFPS\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:42:53.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
